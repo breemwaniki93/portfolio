@@ -9,13 +9,24 @@ Professional Experience
 - Beamsteel Limited: Administrative Assistant (August 2023 - March 2024)
 - County Government of Kiambu**: Junior IT Support Systems/QA Associate (April 2023 - October 2023)
 - Keitt Exporters Limited**: Customer Service Representative (May 2022 - June 2023)
+- 
 Key Projects
-
+https://github.com/breemwaniki93/NutriCook-Recipes- - A recipe management application showcasing my JavaScript and web development skills
+https://github.com/breemwaniki93/bridgette-db-project - Database implementation demonstrating SQL and data management expertise
+https://github.com/breemwaniki93/pythonproject - Python scripts showcasing my programming abilities and analytical skills
 
 Technical Skills
-- Programming: JavaScript, Python, HTML, CSS
-- Tools: Jira, Trello, Monday.com, HubSpot, WordPress
-- Customer Service: CRM systems, email management, conflict resolution
+Programming: JavaScript, Python, HTML, CSS, Django, Bootstrap, Tailwind CSS
+Tools: Jira, Trello, Monday.com, HubSpot, WordPress, Figma, Canva, Slack, Teams
+Database & Testing: SQL, Postman, Selenium
+Customer Service: CRM systems, email management, conflict resolution
+Sales & Marketing: Lead Generation, Social Media Management, Email Marketing
+
+Achievements
+Drove 25% revenue increase at Beamsteel Limited through client acquisition and retention
+Implemented Jira for task tracking, reducing response times and boosting conversions by 20%
+Achieved 90% case resolution rate in customer service roles
+Improved operational efficiency by 20% through new technology implementation
 
 Contact Information
 - Email: bridgettemwaniki@gmail.com
